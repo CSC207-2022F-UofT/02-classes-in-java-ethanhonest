@@ -108,9 +108,9 @@ public class Silly implements Comparable<Silly>{
         Silly second_version = new Silly(5);
         Silly third_version = new Silly("first", "second");
 
-        System.out.println("Silly 1: " + first_version);
-        System.out.println("Silly 2: " + second_version);
-        System.out.println("Silly 3: " + third_version);
+        // System.out.println("Silly 1: " + first_version);
+        // System.out.println("Silly 2: " + second_version);
+        // System.out.println("Silly 3: " + third_version);
 
 
         Silly x = new Silly("something");
